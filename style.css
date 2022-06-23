@@ -1,0 +1,47 @@
+#todoForm{
+    background-image: url(./image/todo-lists-5238324_1920.jpg);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+height: 500px;
+font-size: 30px;
+margin: 30px;
+padding: 30px
+}
+button:hover{
+   color:rgb(199, 70, 24);
+   
+}
+
+button{
+    background-color: rgb(2, 100, 0);
+    border-radius: 8px;
+}
+
+li{
+    color: black;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form{
+    height: 50%;
+}
+i{
+    padding-left: 40px;
+    margin-top: 20px;
+   
+}
+
+input{
+    width:50%;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: silver;
+}
